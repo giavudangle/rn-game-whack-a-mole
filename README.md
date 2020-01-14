@@ -11,11 +11,9 @@ React Native implementation of a Whack-A-Mole game using rn-sprite-sheet
 
 **How it looks like**
 
-**IOS** 
 <img src="https://miro.medium.com/max/1200/1*pkk3mHUZrpcUsuJJvm-UoA.gif" width="200" />
 <br /><br />
 
-**ANDROID**
 <img src="https://media.giphy.com/media/KBK9CjbqGgbeNr8k4z/giphy.gif" width="200" />
 <br /><br />
 
